@@ -1,0 +1,1 @@
+# msedgestore-extension
